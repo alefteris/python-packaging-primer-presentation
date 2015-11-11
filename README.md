@@ -1,6 +1,6 @@
 # Python Packaging Primer
 
-Presentation for Athens Python Meetup in November 2015.
+[Presentation](https://alefteris.github.io/python-packaging-primer-presentation/) for [Athens Python Meetup in November 2015](http://www.meetup.com/Athens-Python-Users-Meetup/events/226099943/).
 
 ## License
 
